@@ -1,4 +1,4 @@
-```
+```markdown
 # Application de Gestion des Tâches
 
 Ce projet est une application de gestion de tâches développée avec React Native. Elle permet aux utilisateurs de créer, modifier, supprimer et suivre leurs tâches quotidiennes de manière efficace.
