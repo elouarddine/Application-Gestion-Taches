@@ -1,3 +1,4 @@
+```
 # Application de Gestion des Tâches
 
 Ce projet est une application de gestion de tâches développée avec React Native. Elle permet aux utilisateurs de créer, modifier, supprimer et suivre leurs tâches quotidiennes de manière efficace.
@@ -9,56 +10,41 @@ Ce projet est une application de gestion de tâches développée avec React Nati
 - Interface utilisateur agréable et intuitive.
 - Utilisation d'une API GraphQL pour la gestion des données.
 
-## Prérequis
+## API utilisée
+L'application utilise l'API GraphQL fournie par :  
+[http://graphql.unicaen.fr:4000](http://graphql.unicaen.fr:4000).
 
+Pour modifier l'URL de l'API, mettez à jour le fichier `apiUrl`.
+
+## Prérequis
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 - **Node.js**
 - **npm** (Node Package Manager)
 - **Expo CLI**
 
 ## Installation
-
 1. **Clonez ce dépôt** sur votre machine locale :
-
-<pre>
-   -------------------------------------------------------------------------------
+   ```bash
    git clone https://github.com/VotreNomUtilisateur/Application-Gestion-Taches.git
-   -------------------------------------------------------------------------------
-<pre>
-
+   ```
 
 2. **Accédez au répertoire du projet** :
-
-<pre>
-    -------------------------------- 
-    cd Application-Gestion-Taches
-    --------------------------------
-<pre>
-
+   ```bash
+   cd Application-Gestion-Taches
+   ```
 
 3. **Installez les dépendances** :
-
-<pre>
-    ------------
-    npm install
-    ------------
-<pre>
+   ```bash
+   npm install
+   ```
 
 4. **Lancez le serveur de développement** :
-<pre>
-
-    ----------------------------
-    expo start or npm run start
-    ----------------------------
-<pre>
-
-
+   ```bash
+   expo start
+   ```
 
 ## Collaborateurs
-
 - **Salah Eddine Elouardi** - Étudiant à l'Université de Caen Normandie
 - **Aimad Lahbib** - Étudiant à l'Université de Caen Normandie
-
-
-
+```
 
