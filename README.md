@@ -24,7 +24,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 ## Installation
 1. **Clonez ce dépôt** sur votre machine locale :
    ```bash
-   git clone https://github.com/VotreNomUtilisateur/Application-Gestion-Taches.git
+   git clone https://github.com/elouarddine/Application-Gestion-Taches.git
    ```
 
 2. **Accédez au répertoire du projet** :
