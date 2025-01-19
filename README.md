@@ -43,7 +43,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
    ```
 
 ## Collaborateurs
-- **Salah Eddine Elouardi** - Étudiant à l'Université de Caen Normandie
-- **Aimad Lahbib** - Étudiant à l'Université de Caen Normandie
+- **Salah Eddine Elouardi** 
+- **Aimad Lahbib** 
 
 
